@@ -1,6 +1,6 @@
 # Visual style for a political movement 
 
-My thesis project is a visual style for my own made up political satire party.
+My thesis project is a visual style for my own made up political satire party together with my own made up party platform, where I'm creating a logo together with other promotional materials used in relevance to the style of my party. 
 
 ---
 
@@ -14,5 +14,7 @@ My thesis project is a visual style for my own made up political satire party.
 
 ### Voice and tone
 
-- **Voice:** Human, confident, educated, and inspirational.
-- **Tone:** Formal (academic), but friendly, enthusiastic, and conversational.
+- **Voice:** Inspirational, confident, human, clear, ambitious, interesting 
+- **Tone:** Formal (academic), enthusiastic, conversational, expertise, sure, educational 
+
+
