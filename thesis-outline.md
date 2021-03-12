@@ -50,13 +50,13 @@ My thesis project is a visual style for my own made up political satire party to
 
 Czech frivolouss parties: 
 
-- [Reference](https://https://vytrollime-europarlament.eu/)
-- [Reference](http://https://www.balbinka.cz/)
-- [Reference](http://http://www.hnuti-nevim.cz/)
+- [Ano, troll](https://https://vytrollime-europarlament.eu/)
+- [Balbínova poetická strana](http://https://www.balbinka.cz/)
+- [Hnutí Nevím](http://http://www.hnuti-nevim.cz/)
 
 Foreign frivolouss parties:
 
--[Reference](https://https://www.partyrhino.ca/en/)
+- [Rhinoceros Party](https://https://www.partyrhino.ca/en/)
 
 
 
