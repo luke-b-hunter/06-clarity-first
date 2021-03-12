@@ -17,7 +17,7 @@ My thesis project is a visual style for my own made up political satire party to
 - **Voice:** Inspirational, confident, human, clear, ambitious, interesting 
 - **Tone:** Formal (academic), enthusiastic, conversational, expertise, sure, educational 
 
-### Outline
+## Outline
 
 1. The satirical party will be using performances to gain media and marketing attention.
 2. The party will be performing and operating in the Prague district of Vrsovice.
@@ -49,12 +49,14 @@ My thesis project is a visual style for my own made up political satire party to
 ### References
 
 Czech frivolouss parties: 
-- [](https://https://vytrollime-europarlament.eu/)
-- [](http://https://www.balbinka.cz/)
-- [](http://http://www.hnuti-nevim.cz/)
+
+- [Reference](https://https://vytrollime-europarlament.eu/)
+- [Reference](http://https://www.balbinka.cz/)
+- [Reference](http://http://www.hnuti-nevim.cz/)
 
 Foreign frivolouss parties:
--[](https://https://www.partyrhino.ca/en/)
+
+-[Reference](https://https://www.partyrhino.ca/en/)
 
 
 
