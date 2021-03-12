@@ -33,7 +33,18 @@ My thesis project is a visual style for my own made up political satire party to
 
 - Make sure the performances don't come off as too offensive to anybody
 
+## Keywords
 
+- **frivolousness**
+  - Something nonsensical, childish, naive, weird (in good sense).
+- **visual style**
+  - A set of graphic conponents that create one clear manual on how an image of a specific brand, organisation, institute works.
+- **movement**
+  - A group of people that want to adress an issue through politics or other made up stunts.
+- **satire**
+  - Something with a clear ironic undertone, that is hyperbolicaly making fun of a specific thing or problem in a joking manner.
+- **Keyword**
+  - Definition/description; aim for a single-sentence in 120 characters or less.
 
 
 
