@@ -9,3 +9,7 @@ My thesis project is a visual style for my own made up political satire party.
 
 ![](/img/thesis-mind-map.jpg)
 </details>
+
+### Voice and tone
+
+---
