@@ -43,8 +43,18 @@ My thesis project is a visual style for my own made up political satire party to
   - A group of people that want to adress an issue through politics or other made up stunts.
 - **satire**
   - Something with a clear ironic undertone, that is hyperbolicaly making fun of a specific thing or problem in a joking manner.
-- **Keyword**
-  - Definition/description; aim for a single-sentence in 120 characters or less.
+- **platform**
+  - A clear set of the most important party/movement points that the party/movement is trying to communicate through online media or in the form of a brochure.
+
+### References
+
+Czech frivolouss parties: 
+- [](https://https://vytrollime-europarlament.eu/)
+- [](http://https://www.balbinka.cz/)
+- [](http://http://www.hnuti-nevim.cz/)
+
+Foreign frivolouss parties:
+-[](https://https://www.partyrhino.ca/en/)
 
 
 
